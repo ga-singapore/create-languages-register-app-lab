@@ -1,5 +1,8 @@
-# ![React Components Lab - Setup](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Create Languages Register App Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 ## Setup
 
 Open your Terminal application and navigate to your `~/code/ga/labs` directory:

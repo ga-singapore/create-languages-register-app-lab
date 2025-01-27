@@ -1,5 +1,8 @@
-# ![Create Expense App Lab - Exercise](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Create Languages Register App Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 ## Introduction
 ---
 In this lab, you'll build an app that does CRUD with a database.
